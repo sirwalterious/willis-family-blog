@@ -1,13 +1,13 @@
 DefaultContentLanguage = "en"
-author = "Steve Francia"
-baseURL = "https://gohugo.io/"
+author = "Willis Family"
+baseURL = "https://www.willisfamily.org"
 copyright = "Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved."
 enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"
 languageCode = "en"
 paginate = 3
 theme = "github.com/jonathanjanssens/hugo-casper3"
-title = "Hugo Themes"
+title = "Willis Family Blog"
 [[menu.main]]
 identifier = "about"
 name = "About"
