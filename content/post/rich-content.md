@@ -37,3 +37,5 @@ Hugo ships with several [Built-in Shortcodes](https://gohugo.io/content-manageme
 ## Vimeo Simple Shortcode
 
 {{< vimeo_simple 48912912 >}}
+
+![](/images/lead-screw-customization_cropped.png)![](/images/keith-misner-h0vxgz5tyxa-unsplash.jpg "A bunch of wood")
