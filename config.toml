@@ -1,7 +1,7 @@
 DefaultContentLanguage = "en"
 author = "Willis Family"
 baseURL = "https://www.willisfamily.org"
-copyright = "Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved."
+copyright = "Copyright © 2021 The Willis Family"
 enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"
 languageCode = "en"
