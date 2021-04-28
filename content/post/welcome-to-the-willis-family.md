@@ -2,7 +2,6 @@
 author = "Walter"
 date = 2017-08-23T14:54:11Z
 description = "Welcome to our new blog! Join us for the adventures, pictures, and writings of Walter and Rachel Willis (and kiddo!)."
-draft = true
 feature_image = "/images/f1c2a56e-aeca-571c-05cf-cbd709582d04.jpg"
 tags = []
 title = "Welcome to the Willis Family!"
