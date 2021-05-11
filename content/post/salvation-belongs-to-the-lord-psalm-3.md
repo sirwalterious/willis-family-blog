@@ -1,8 +1,7 @@
 +++
 author = "Walter Willis"
 date = 2017-08-08T14:49:24Z
-description = "LORD, how they have increased who trouble me! Many [are] they who rise up against me. Many [are] they who say of me, \"[There is] no help for him in God.\" Selah"
-draft = true
+description = "LORD, how they have increased who trouble me! "
 feature_image = ""
 tags = []
 title = "Salvation Belongs to the LORD (Psalm 3)"
